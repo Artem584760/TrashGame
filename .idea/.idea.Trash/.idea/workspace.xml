@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d344997-80f0-4147-afea-32d784c71555" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/745B5F4D-09C5-48E5-AB5D-7DBE36D26D78/52/edc12882/UnityEngine.AndroidJNIModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Objects/Candle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanicses/Inventory/InventoryUI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Pause.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HintController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pause.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI3DCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TeleportTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Objects/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Objects/Door/DoorAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/IInvenor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Cell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hints/HintVisibleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Pause.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hints/HintController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hints/Hint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hints/UsableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/IInventoriable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Objects/Candle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanicses/Inventory/InventoryUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanicses/Inventory/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Objects/Door/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanicses/Use/UsableObject.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2uangO5fOsy5kEWnWYEJ4fyeGC6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/build\Trash.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\aob\unity projects\Trash\build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d344997-80f0-4147-afea-32d784c71555" name="Default Changelist" comment="" />
+      <created>1742495665543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742495665543</updated>
+      <workItem from="1742495670926" duration="568000" />
+      <workItem from="1742496445848" duration="1978000" />
+      <workItem from="1742633586004" duration="7354000" />
+      <workItem from="1742657175558" duration="3529000" />
+      <workItem from="1743881329819" duration="523000" />
+      <workItem from="1743963977506" duration="5263000" />
+      <workItem from="1744218612359" duration="2311000" />
+      <workItem from="1744287609072" duration="913000" />
+      <workItem from="1744467983782" duration="3120000" />
+      <workItem from="1744787673052" duration="1915000" />
+      <workItem from="1744977676995" duration="1921000" />
+      <workItem from="1744980022954" duration="2024000" />
+      <workItem from="1744985343087" duration="3225000" />
+      <workItem from="1744996320770" duration="1261000" />
+      <workItem from="1744999225074" duration="603000" />
+      <workItem from="1745425193906" duration="9251000" />
+      <workItem from="1745477990712" duration="3838000" />
+      <workItem from="1745602622580" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1745431520411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1745431520411" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1742497360273">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1742497360273" />
+  </component>
+</project>
